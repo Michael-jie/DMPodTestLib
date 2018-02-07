@@ -1,0 +1,16 @@
+PODS:
+  - DMPodTestLib (0.1.0)
+
+DEPENDENCIES:
+  - DMPodTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  DMPodTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DMPodTestLib: 1ab4d2f2c1ede9585261e3f046894eb1b657069c
+
+PODFILE CHECKSUM: 3b93e3c0914d453a2eea220e8e6b52ebab3eb5bb
+
+COCOAPODS: 1.4.0
