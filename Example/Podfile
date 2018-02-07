@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DMPodTestLib_Tests' do
+  pod 'DMPodTestLib', :path => '../'
+  
+  
+end
